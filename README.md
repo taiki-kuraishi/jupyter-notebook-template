@@ -1,7 +1,8 @@
-### jupyter-notebook-template
+# jupyter-notebook-template
 
-#### How to develop
-```
+## How to develop
+
+```sh
 pre-commit install
 
 python -m venv venv
